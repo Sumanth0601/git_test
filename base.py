@@ -7,6 +7,7 @@ print("and i do something else in the same line")
 print('and the next line as well')
 # adding comment now 
 a = 10
+c = 2134
 b = 20 
 print(a + b)
 #asdfadsfasdf
