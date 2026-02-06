@@ -10,4 +10,5 @@ a = 10
 c = 2134
 b = 20 
 print(a + b)
+print("whatever man")
 #asdfadsfasdf
