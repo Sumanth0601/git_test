@@ -3,6 +3,7 @@
 print("Hello, World!")
 print('and here i add few more lines to test git yay')
 
+# adding some comment 
 a = 10
 b = 20 
 print(a + b)
